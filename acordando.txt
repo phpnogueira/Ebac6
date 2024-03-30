@@ -1,0 +1,19 @@
+Início
+
+1- Abrir os olhos
+2- Virar para esquerda
+3- olhar para o relógio
+4- Se a hora for menor que 8
+	virar para direita
+	voltar a dormir
+5- Senão
+	Levantar da cama
+6- olhar para o chão
+7- Procurar chinelo 
+8- Calçar o chinelo
+9- Ir até a porta
+10- Girar a maçaneta para direta
+11- Com a maçaneta virada puxar para si a porta
+12- Sair do quarto
+
+FIM
